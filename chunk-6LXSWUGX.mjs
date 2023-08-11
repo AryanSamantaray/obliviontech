@@ -1,0 +1,2 @@
+var a=e=>({bodyClassName:"framer-body-PrTL4EEoy",breakpoints:[{hash:"1lhtvz8",mediaQuery:"(min-width: 1200px)"},{hash:"1s9ys3a",mediaQuery:"(min-width: 810px) and (max-width: 1199px)"},{hash:"m5p55c",mediaQuery:"(max-width: 809px)"}],elements:{},title:"Exploring Tech Now",viewport:"width=device-width"}),o=a,n=1,d={exports:{default:{type:"variable",annotations:{framerContractVersion:"1"}},metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{o as a,n as b,d as c};
+//# sourceMappingURL=chunk-6LXSWUGX.mjs.map

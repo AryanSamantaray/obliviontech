@@ -1,0 +1,2 @@
+var a=e=>({bodyClassName:"framer-body-augiA20Il",breakpoints:[{hash:"72rtr7",mediaQuery:"(min-width: 1200px)"},{hash:"1u6hrnw",mediaQuery:"(min-width: 810px) and (max-width: 1199px)"},{hash:"1aqz517",mediaQuery:"(max-width: 809px)"}],elements:{},title:"Immersive Tech Journey",viewport:"width=device-width"}),n=a,o=1,d={exports:{metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},default:{type:"variable",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{n as a,o as b,d as c};
+//# sourceMappingURL=chunk-CGGUJIAE.mjs.map

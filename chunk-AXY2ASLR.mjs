@@ -1,0 +1,2 @@
+var a=e=>({bodyClassName:"framer-body-iWw7XOghk",breakpoints:[{hash:"13a8o4e",mediaQuery:"(min-width: 1200px)"},{hash:"1awiaim",mediaQuery:"(min-width: 810px) and (max-width: 1199px)"},{hash:"abhib3",mediaQuery:"(max-width: 809px)"}],elements:{},title:"Innovations Timeline",viewport:"width=device-width"}),n=a,o=1,d={exports:{default:{type:"variable",annotations:{framerContractVersion:"1"}},metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{n as a,o as b,d as c};
+//# sourceMappingURL=chunk-AXY2ASLR.mjs.map
